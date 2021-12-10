@@ -1,4 +1,16 @@
 .card-item {
     display: flex;
     flex-direction: row;
+    width: 90%;
+    border: 2px solid aqua;
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 15px;
+    background-color: #b9ffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: olive;
+}
+
+.pic {
+    width: 30%;
 }
