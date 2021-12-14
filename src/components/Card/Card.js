@@ -5,7 +5,7 @@ export function Card(props) {
 
     return(
         <div className="card-item">
-            <img src={pic} alt={`${name}-фото`} />
+            <img src={pic} alt={`${name}-фото`} className="pic" />
             <div className="info">
                 <h3>Имя: {name}</h3>
                 <p>Вселенная: {universe}</p>
