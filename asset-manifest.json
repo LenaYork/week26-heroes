@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/week26-heroes/static/css/main.fbf76df9.chunk.css",
-    "main.js": "/week26-heroes/static/js/main.e4835388.chunk.js",
-    "main.js.map": "/week26-heroes/static/js/main.e4835388.chunk.js.map",
+    "main.js": "/week26-heroes/static/js/main.4002b5b0.chunk.js",
+    "main.js.map": "/week26-heroes/static/js/main.4002b5b0.chunk.js.map",
     "runtime-main.js": "/week26-heroes/static/js/runtime-main.884badcb.js",
     "runtime-main.js.map": "/week26-heroes/static/js/runtime-main.884badcb.js.map",
     "static/js/2.cbf114af.chunk.js": "/week26-heroes/static/js/2.cbf114af.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.884badcb.js",
     "static/js/2.cbf114af.chunk.js",
     "static/css/main.fbf76df9.chunk.css",
-    "static/js/main.e4835388.chunk.js"
+    "static/js/main.4002b5b0.chunk.js"
   ]
 }
