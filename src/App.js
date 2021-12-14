@@ -11,7 +11,7 @@ let heroes = [
       friends: `Робин, Бэтгерл`,
       powers: `интеллект, обширные познания, знания боевых искусств, ловкость`,
       likes: "no",
-      pic: `/pics/batman.jpg`
+      pic: `./pics/batman.jpg`
 },
 
   {
